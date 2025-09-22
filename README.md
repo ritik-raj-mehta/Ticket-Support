@@ -132,22 +132,3 @@ The app will run at:
 | DELETE | /api/tickets/\:id | Delete a ticket     |
 
 ---
-
-## 📸 Screenshots (Optional)
-
-*Add screenshots/gifs of your app UI here.*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo and create a PR with improvements.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
